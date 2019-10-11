@@ -1,0 +1,46 @@
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\bin\Debug\Project RS v1.0.exe.config
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\bin\Debug\Project RS v1.0.exe
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\bin\Debug\Project RS v1.0.pdb
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Project RS v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\App.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Project RS v1.0_MarkupCompile.cache
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Project RS v1.0_MarkupCompile.lref
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Project RS v1.0.g.resources
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Project_RS_v1._0.Properties.Resources.resources
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Project RS v1.0.csproj.GenerateResource.Cache
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Project RS v1.0.exe
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Project RS v1.0.pdb
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\MainWindow.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\admin_panel.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\admin_panel.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_Marks.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_Student.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_Subjects.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_Teacher.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_Marks.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_Student.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_Subjects.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_Teacher.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Student_panel.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\Student_panel.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\studentPage_coursereg.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\studentPage_info.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\studentPage_result.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\studentPage_coursereg.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\studentPage_info.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\studentPage_result.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\teacher_panel.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\teacher_panel.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_StudentReg.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_StudentReg.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_StudentUpdate.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_StudentUpdate.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_TeacherReg.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_TeacherUpdate.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_TeacherReg.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_TeacherUpdate.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_SubjectsReg.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_SubjectsUpdate.g.cs
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_SubjectsReg.baml
+C:\Users\Taz\Desktop\SE\Project RS v1.0\Project RS v1.0\obj\Debug\adminPage_SubjectsUpdate.baml

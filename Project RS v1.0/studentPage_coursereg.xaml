@@ -1,0 +1,42 @@
+﻿<Page x:Class="Project_RS_v1._0.studentPage_coursereg"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project_RS_v1._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="336" d:DesignWidth="593"
+      Title="studentPage_coursereg">
+
+    <Grid Background="#FF958F8F">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="280*"/>
+            <RowDefinition Height="31*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="155*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="380*"/>
+            <ColumnDefinition Width="18*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="grid_stuCourseReg" CanUserAddRows="False" Grid.Column="3" HorizontalAlignment="Left" Height="210" Grid.Row="1" VerticalAlignment="Top" Width="380" SelectionChanged="grid_stuCourseReg_SelectionChanged"/>
+        <Button x:Name="btn_registerCourse" Content="Regsiter" Grid.Column="3" HorizontalAlignment="Left" Height="45" Margin="120,225,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130" Click="btn_registerCourse_Click"/>
+        <Button x:Name="btn_show" Content="Show" Grid.Column="1" HorizontalAlignment="Left" Height="35" Margin="15,245,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130" Click="btn_show_Click"/>
+        <Label x:Name="label" Content="Select Year :" Grid.Column="1" HorizontalAlignment="Left" Height="35" Grid.Row="1" VerticalAlignment="Top" Width="155"/>
+        <Label x:Name="label_Copy" Content="Select Semester :" Grid.Column="1" HorizontalAlignment="Left" Height="35" Grid.Row="1" VerticalAlignment="Top" Width="155" Margin="0,120,0,0"/>
+        <ComboBox x:Name="comboYear" Grid.Column="1" HorizontalAlignment="Left" Height="40" Margin="0,40,0,0" Grid.Row="1" VerticalAlignment="Top" Width="155">
+            <ComboBoxItem Content="1st"/>
+            <ComboBoxItem Content="2nd"/>
+            <ComboBoxItem Content="3rd"/>
+        </ComboBox>
+        <ComboBox x:Name="comboSem" Grid.Column="1" HorizontalAlignment="Left" Height="40" Margin="0,160,0,0" Grid.Row="1" VerticalAlignment="Top" Width="155">
+            <ComboBoxItem Content="1st"/>
+            <ComboBoxItem Content="2nd"/>
+            <ComboBoxItem Content="3rd"/>
+            <ComboBoxItem/>
+        </ComboBox>
+
+    </Grid>
+</Page>

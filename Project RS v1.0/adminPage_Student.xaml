@@ -1,0 +1,29 @@
+﻿<Page x:Class="Project_RS_v1._0.adminPage_Student"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project_RS_v1._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="421" d:DesignWidth="657"
+      Title="adminPage_Students" Height="421" Width="657" Background="HotPink">
+
+    <Grid Background="#FF958F8F">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="365*"/>
+            <RowDefinition Height="31*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="125*"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="481*"/>
+            <ColumnDefinition Width="27*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button" Content="Student Registration" Grid.Column="1" HorizontalAlignment="Left" Height="64" Margin="0,103,0,0" Grid.Row="1" VerticalAlignment="Top" Width="125" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="Student Update" Grid.Column="1" HorizontalAlignment="Left" Height="64" Margin="0,182,0,0" Grid.Row="1" VerticalAlignment="Top" Width="125" Click="button_Copy_Click"/>
+        <Frame x:Name="frameAdminPanel" Content="" Grid.Column="3" HorizontalAlignment="Left" Height="365" Margin="1,0,0,0" Grid.Row="1" VerticalAlignment="Top" Width="480" NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Page>

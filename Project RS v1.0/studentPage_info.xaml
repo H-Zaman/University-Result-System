@@ -1,0 +1,35 @@
+﻿<Page x:Class="Project_RS_v1._0.studentPage_info"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project_RS_v1._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="336" d:DesignWidth="593"
+      Title="studentPage_info" >
+
+    <Grid Background="#FF958F8F">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="110*"/>
+            <ColumnDefinition Width="185*"/>
+            <ColumnDefinition Width="115*"/>
+            <ColumnDefinition Width="183*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="First Name :" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.ColumnSpan="2"/>
+        <Label x:Name="addr" Content="" HorizontalAlignment="Left" Margin="0,270,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="1" Background="#FF857A7A"/>
+        <Label x:Name="label_Copy1" Content="Address :" HorizontalAlignment="Left" Margin="10,230,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.ColumnSpan="2"/>
+        <Label x:Name="fathername" Content="" HorizontalAlignment="Left" Margin="0,195,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="1" Background="#FF857A7A"/>
+        <Label x:Name="label_Copy3" Content="Father Name :" HorizontalAlignment="Left" Margin="10,160,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.ColumnSpan="2"/>
+        <Label x:Name="stuID" Content="" HorizontalAlignment="Left" Margin="0,125,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="1" Background="#FF857A7A"/>
+        <Label x:Name="label_Copy5" Content="ID number :" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.ColumnSpan="2"/>
+        <Label x:Name="fname" Content="" HorizontalAlignment="Left" Margin="0,55,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="1" Background="#FF857A7A"/>
+        <Label x:Name="label_Copy7" Content="Last Name :" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="phnnum" Content="" HorizontalAlignment="Left" Margin="0,265,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="3" Background="#FF857A7A"/>
+        <Label x:Name="label_Copy9" Content="Phone Number :" HorizontalAlignment="Left" Margin="10,230,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="mothername" Content="" HorizontalAlignment="Left" Margin="0,195,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="3" Background="#FF857A7A"/>
+        <Label x:Name="label_Copy11" Content="Mother Name :" HorizontalAlignment="Left" Margin="10,160,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="dob" Content="" HorizontalAlignment="Left" Margin="0,125,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="3" Background="#FF857A7A"/>
+        <Label x:Name="label_Copy13" Content="Date of Birth :" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="2" Grid.ColumnSpan="2"/>
+        <Label x:Name="lname" Content="" HorizontalAlignment="Left" Margin="0,55,0,0" VerticalAlignment="Top" Height="35" Width="150" FontSize="14.667" FontStyle="Italic" Grid.Column="3" Background="#FF857A7A"/>
+    </Grid>
+</Page>
